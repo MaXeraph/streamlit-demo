@@ -4,7 +4,7 @@ import numpy as np
 
 st.set_page_config(page_title="Plotting Demo", page_icon="📈")
 
-st.markdown("# Plotting Demo")
+st.markdown("# SUPER FAST DEMO")
 st.sidebar.header("Plotting Demo")
 st.write(
     """This demo illustrates a combination of plotting and animation with
